@@ -86,7 +86,6 @@
                 return;
             }
 
-            console.log(isNaN(guessed_number));
             if(isNaN(guessed_number) || guessed_number <= 0 || guessed_number >= 100) {
                 query = 'Both you and me knows that what you just entered is not a number between 1 and 100.\n\rTry again: ';
             } else if(guessed_number < this.secret_number) {
