@@ -9,8 +9,8 @@
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://raw.github.com/yeikos/js.guess/master/LICENSE"
+        "type": "MIT",
+        "url": "https://github.com/coffeepunk/Guess100/blob/master/LICENSE.md"
     }
   ],
   "homepage": "http://jorgennilsson.com",
