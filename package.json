@@ -1,0 +1,33 @@
+{
+  "name": "Guess100",
+  "version": "1.0.0",
+  "author": "Jörgen Nilsson (http://jorgennilsson.com)",
+  "description": "Guess 100 is a simple guessing game where the user have to guess a random number between 1 and 100.",
+  "main": "guess100.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://raw.github.com/yeikos/js.guess/master/LICENSE"
+    }
+  ],
+  "homepage": "http://jorgennilsson.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/coffeepunk/Guess100"
+  },
+  "keywords": [
+    "guess",
+    "game",
+    "guess100"
+  ],
+  "bugs": {
+    "url": "https://github.com/coffeepunk/Guess100/issues"
+  },
+  "scripts": {
+    "test": "No test specified"
+  },
+  "license": "MIT"
+}
