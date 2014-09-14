@@ -6,13 +6,13 @@ The user have to guess a random number between 1 and 100 and when guessed right 
 
 ## Installation
 
-    npm install Guess100
+    npm install guess100
 
 ## Usage
 
 Run the game by
 
-    npm start Guess100
+    npm start guess100
 
 You can exit the game at any time by
 
