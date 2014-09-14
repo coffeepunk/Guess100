@@ -1,8 +1,8 @@
 {
-  "name": "Guess100",
+  "name": "guess100",
   "version": "1.0.0",
   "author": "Jörgen Nilsson (http://jorgennilsson.com)",
-  "description": "Guess 100 is a simple guessing game where the user have to guess a random number between 1 and 100.",
+  "description": "Guess100 is a simple guessing game where the user have to guess a random number between 1 and 100.",
   "main": "guess100.js",
   "engines": {
     "node": ">=0.10.0"
