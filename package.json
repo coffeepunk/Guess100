@@ -27,6 +27,7 @@
     "url": "https://github.com/coffeepunk/Guess100/issues"
   },
   "scripts": {
+    "start": "node guess100.js",
     "test": "No test specified"
   },
   "license": "MIT"
